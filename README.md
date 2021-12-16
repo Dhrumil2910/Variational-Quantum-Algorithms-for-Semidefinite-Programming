@@ -1,4 +1,5 @@
-# Variational-Quantum-Algorithms-for-Semidefinite-Programming
+# Variational-Quantum-Algorithms-for-Semidefinite-Programming [![DOI](https://zenodo.org/badge/438959299.svg)](https://zenodo.org/badge/latestdoi/438959299)
+
 
 This repository contains codes of variational quantum algorithms proposed in our [paper](https://pages.github.com/) for solving semidefinite programs:
   
